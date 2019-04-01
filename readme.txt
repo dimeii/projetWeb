@@ -12,6 +12,6 @@ En étant connecté depuis l'ecran d'un post vous pouvez aimer une image et post
 
 Depusi l'écran de recherche vous pouver chercher une image par son titre un ensemble de tags commencant par #
 
-Vous poouvez voir la galerie d'un artiste en cliquant sur son nom d'artiste
+Vous pouvez voir la galerie d'un artiste en cliquant sur son nom d'artiste
 
 Vous pouvez gérer votre compte, pour cela entrer uniquement les champs que vous désiez modifier
