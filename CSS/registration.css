@@ -1,0 +1,59 @@
+
+
+html,body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/9/1/e/168436.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+.registration{
+    width: 60%;
+    
+    margin-left: 20%;
+    margin-top: 20px;
+
+    padding: 12px;
+
+    border-radius: 3px;
+    background-color: #e6e6e6;
+}
+
+#submit{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: gray;
+    border-color: gray;
+}
+
+@media screen and (max-width: 700px)
+{
+    .registration{
+        width: 60%;
+        height: 60%;
+        margin-left: 20%;
+        margin-top: 20px;
+        padding: 12px;
+        border-radius: 3px;
+    }
+
+    .form-group{
+        margin-top: 30px;
+    }
+
+    label, #submit{
+        font-size: 40px;
+    }
+    #submit{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 40px;
+        bottom:0px;
+        
+        background-color: gray;
+        border-color: gray;
+        
+    }
+}

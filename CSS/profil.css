@@ -1,0 +1,43 @@
+
+body{
+    background-color: #fafafa;
+}
+.profilPicture{
+    height: 150px;
+    display: inline-block;
+}
+
+.profilPicture img{
+    border-radius: 5%;
+}
+.infoCompte{
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+}
+
+.nbPhoto{
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+}
+
+.contentProfil{
+   display: inline-block;
+    margin-top: 20px;
+    margin-left: 10%; 
+}
+.photo{
+    width: 30%;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    
+}
+.photo img { 
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+ }
+
